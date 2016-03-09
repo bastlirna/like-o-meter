@@ -6,7 +6,7 @@
 
 **Components:**
 
-- Raspnerry Pi, ideally B+ version – *it looks more cool*
+- Rasbnerry Pi, ideally B+ version – *it looks more cool*
 - USB Wi-Fi dongle
 - 7-segment display with driver - *the bigger the better*, we use [7-Segment Serial Display - Blue](https://www.sparkfun.com/products/retired/9765)
 - some wires and power supply
